@@ -1,4 +1,3 @@
-package com.gla.stringapi.level2;
 import java.util.*;
 public class Vote{
     public static int[] inputAges(int n){

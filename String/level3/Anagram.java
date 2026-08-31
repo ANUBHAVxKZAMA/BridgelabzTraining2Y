@@ -1,4 +1,3 @@
-package com.gla.stringapi.level3;
 import java.util.*;
 public class Anagram{
     public static boolean isAnagram(String a,String b){

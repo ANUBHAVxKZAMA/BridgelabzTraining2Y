@@ -1,4 +1,3 @@
-package com.gla.stringapi.level3;
 import java.util.*;
 public class Frequency2{
     public static String[] freq(String text){

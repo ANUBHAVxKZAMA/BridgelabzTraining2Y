@@ -1,4 +1,3 @@
-package com.gla.stringapi.level3;
 import java.util.*;
 public class Palindrome{
     public static boolean check1(String text){

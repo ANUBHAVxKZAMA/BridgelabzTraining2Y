@@ -1,4 +1,3 @@
-package com.gla.string.level1;
 public class NullPoint 
 {
 static void generateException()

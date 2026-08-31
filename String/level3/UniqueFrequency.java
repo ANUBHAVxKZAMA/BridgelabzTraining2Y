@@ -1,4 +1,3 @@
-package com.gla.stringapi.level3;
 import java.util.*;
 public class UniqueFrequency{
     public static char[] unique(String text){

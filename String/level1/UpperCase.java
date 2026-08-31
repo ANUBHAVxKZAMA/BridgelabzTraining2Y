@@ -1,4 +1,3 @@
-package com.gla.string.level1;
 import java.util.Scanner;
 class UpperCase 
 {

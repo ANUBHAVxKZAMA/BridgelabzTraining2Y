@@ -1,4 +1,3 @@
-package com.gla.stringapi.level2;
 import java.util.*;
 public class VowelConsonant{
     public static String check(char ch){

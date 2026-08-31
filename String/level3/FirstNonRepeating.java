@@ -1,4 +1,3 @@
-package com.gla.stringapi.level3;
 import java.util.*;
 public class FirstNonRepeating {
     public static char find(String text){
